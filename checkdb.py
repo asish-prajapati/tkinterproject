@@ -6,3 +6,4 @@ regholder1 = con.execute("SELECT name FROM sqlite_master WHERE type ='table' AND
 print(list(regholder1))
 
 
+ertjyuyttyuiuytrertg

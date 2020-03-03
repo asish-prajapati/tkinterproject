@@ -1,13 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d6fab1-e506-4fb8-966e-8db23bf03a4c" name="Default Changelist" comment="" />
+    <list default="true" id="b9d6fab1-e506-4fb8-966e-8db23bf03a4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkdb.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkdb.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YR1IYMeO57Vi35DpdXvHQXgYTj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +23,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager" selected="Python.checkdb">
@@ -125,22 +134,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1583265426768">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom" timestamp="1583266473048">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583265426768" />
-    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1583265426768">
+    <state width="1345" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1583266473048" />
+    <state width="1345" height="182" key="GridCell.Tab.0.center" timestamp="1583266473048">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583265426768" />
-    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1583265426768">
+    <state width="1345" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1583266473048" />
+    <state width="1345" height="182" key="GridCell.Tab.0.left" timestamp="1583266473048">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583265426768" />
-    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1583265426768">
+    <state width="1345" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1583266473048" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right" timestamp="1583266473048">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583265426768" />
+    <state width="1345" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1583266473048" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583266506499">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.738@0.0.1366.738" timestamp="1583266506499" />
     <state x="391" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1583225360896">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
